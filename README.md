@@ -20,6 +20,12 @@ To build and install an Arch package from this source folder, run:
 makepkg -si
 ```
 
-This builds and installs `linkplayer` with pacman, including its dependencies and system-wide app menu entry. Once the project is published in a public Git repository, other Arch users can install it by cloning the repository and running `makepkg -si` inside it.
+This builds and installs `linkplayer` with pacman, including its dependencies and system-wide app menu entry. Anyone can install it from the public repository with:
+
+```sh
+git clone https://github.com/messio-debug/linkplayer.git
+cd linkplayer
+makepkg -si
+```
 
 Use **Play link** to open the URL in mpv. Use **Download** to save it in the selected folder (Videos by default). Quality selection applies to both actions. yt-dlp supports many public video sites, but site support can change. This app does not bypass DRM; use the service's official offline feature for protected streams.
