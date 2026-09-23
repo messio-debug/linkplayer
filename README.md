@@ -1,10 +1,10 @@
 # LinkPlayer (Arch linux)
 
-A small Python/Tkinter desktop GUI for opening supported video links in mpv and saving accessible streams with yt-dlp. Shhh.... put links and watch no ads no bad quality,
+A small Python/Tkinter desktop GUI for opening supported video links in mpv and saving accessible streams with yt-dlp. **Shhh....** put links and watch no ads no bad quality,
 Very fast working 
 Lightweight program with lightweight GUI 
 
-Soon will be able on more operating systems 
+**Soon** will be able on more operating systems 
 
 ## Arch Linux
 
