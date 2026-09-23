@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LinkPlayer
+Comment=Play and save videos from supported links
+Exec=linkplayer
+Icon=multimedia-video-player
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;Player;
